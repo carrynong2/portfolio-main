@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Using React, Material UI, Boostrap, HTML, CSS, Javascript, This project I'll learn how to build React App with API Axios then adapting style own and This website has reported the situation of Covid-19 day-to-day, etc  ",
     image: "/images/1.jpg",
-    tags: ["React", "Material UI", "Boostrap", "Javacript"],
+    tags: ["React", "Material UI", "Javacript"],
     source: "https://covid19.workpointnews.com/",
     visit: "https://github.com/carrynong2/react-covid19",
     id: 0,
