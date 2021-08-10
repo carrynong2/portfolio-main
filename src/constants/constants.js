@@ -29,6 +29,26 @@ export const projects = [
     visit: "https://carrynong2.github.io/CRUD/",
     id: 1,
   },
+  {
+    title: "Guess My Number",
+    description:
+      "I'm practice concepts dom of javascript and logic game basic that important for web developer, this is game guess my number if guess correct will wins",
+    image: "/images/4.jpg",
+    tags: ["HTML", "CSS", "Javascript"],
+    source: "https://github.com/carrynong2/Guess-My-Number",
+    visit: "https://carrynong2.github.io/Guess-My-Number/",
+    id: 1,
+  },
+  {
+    title: "Pig-Game",
+    description:
+      "I'm practice concepts dom of javascript and logic game basic that important for web developer, this is game of player1 and player 2 has 100 scores will wins",
+    image: "/images/5.jpg",
+    tags: ["HTML", "CSS", "Javascript"],
+    source: "https://github.com/carrynong2/Pig-Game",
+    visit: "https://carrynong2.github.io/Pig-Game/",
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
